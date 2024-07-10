@@ -1,0 +1,4 @@
+BankAccount1,BankAccount2,transfer_amount
+B1,B2,100.0
+B2,B3,150.0
+B3,B1,200.0

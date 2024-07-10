@@ -1,0 +1,4 @@
+Phone1,Phone2,call_duration
+P1,P2,120
+P2,P3,180
+P3,P1,60
